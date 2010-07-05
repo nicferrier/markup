@@ -12,6 +12,7 @@ you wish to run the library.
 
 * [.markdown](http://daringfireball.net/projects/markdown/) -- `gem install rdiscount`
 * [.textile](http://www.textism.com/tools/textile/) -- `gem install RedCloth`
+* [.creole](http://www.wikicreole.org/) -- `easy_install creole`
 * [.rdoc](http://rdoc.sourceforge.net/)
 * [.org](http://orgmode.org/) -- `gem install org-ruby`
 * [.rst](http://docutils.sourceforge.net/rst.html) -- `easy_install docutils`
